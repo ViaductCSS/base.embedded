@@ -1,0 +1,23 @@
+{
+  "name": "viaduct.base.media",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ViaductCSS/base.media",
+  "authors": [
+    "Ben Cooper <ben.cooper@thap.co.uk>"
+  ],
+  "description": "Base Media Partial for the Viaduct CSS Framework",
+  "keywords": [
+    "viaduct-css",
+    "css-framework",
+    "sass",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
