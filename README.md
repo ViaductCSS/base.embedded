@@ -1,4 +1,4 @@
-base.media
+base.embedded
 ==========
 
-Media partial contained within the core framework's base directory
+Embedded partial contained within the core framework's base directory
